@@ -1,3 +1,5 @@
+![Archived](https://img.shields.io/badge/Current_Status-archived-blue?style=flat)
+
 # esn-calendar-client
 
 Client library for linagora.esn.calendar module.
